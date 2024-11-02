@@ -4,7 +4,7 @@ local function loadScript(url)
 end
  
 -- Define the URLs
-local url1 = 'https://raw.githubusercontent.com/K4J7/tr1al/refs/heads/main/listener'
+local url1 = 'https://raw.githubusercontent.com/K4J7/spec/refs/heads/main/in'
 local url2 = 'https://raw.githubusercontent.com/K4J7/spec/refs/heads/main/m'
 
  
